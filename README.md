@@ -39,11 +39,9 @@ It shows the
 
 
 Project Outcome:
-![image](https://github.com/Tomardhruv/Delhi-Metro/assets/104518093/67b4629e-b2e8-
-49ed-81bd-04f60a178269)
+![image](https://github.com/Tomardhruv/Delhi-Metro/assets/104518093/67b4629e-b2e8-49ed-81bd-04f60a178269)
 
-![image](https://github.com/Tomardhruv/Delhi-Metro/assets/104518093/3e3c6d59-a975-
-4dcf-b3ba-1ddbc418dddb)
+![image](https://github.com/Tomardhruv/Delhi-Metro/assets/104518093/3e3c6d59-a975-4dcf-b3ba-1ddbc418dddb)
 
 ![image](https://github.com/Tomardhruv/Delhi-Metro/assets/104518093/41f431a9-21fe-4a13-9073-2408fa4e0d1f)
 
